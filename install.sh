@@ -44,7 +44,11 @@ else
 fi
 
 # 2. Repo ---------------------------------------------------------------------
-SELF_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" 2>/dev/null && pwd || echo "")"
+SELF_DIR=""
+# only trust the script's own folder when run as a file (not when piped from curl)
+if [ -n "${BASH_SOURCE[0]:-}" ] && [ -f "${BASH_SOURCE[0]}" ]; then
+  SELF_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+fi
 if [ -n "$SELF_DIR" ] && [ -f "$SELF_DIR/install.sh" ] && [ -d "$SELF_DIR/vendor/gtavi-claudecode" ]; then
   INSTALL_DIR="$SELF_DIR"
   c "2/7 Using this checkout: $INSTALL_DIR"

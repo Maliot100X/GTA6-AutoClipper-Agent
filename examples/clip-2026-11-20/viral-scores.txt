@@ -1,0 +1,6 @@
+ 77.0 | LuxeDude 2EaoIgWAW5g 256:50-258:40 | hype=9 action=17 npc_lines=5 comment_likes=0 | gang steals bag -> reinforcements chase -> head-on crash -> cop chase (free roam, No Spoilers VOD)
+ 56.0 | LuxeDude 2EaoIgWAW5g 162:38-164:08 | hype=2 action=21 npc_lines=5 comment_likes=0 | car alarm -> hiding from cops in bushes (free roam)
+ 46.0 | Jynxzi k3esjgmbphQ 26:55-28:25 | hype=2 action=21 npc_lines=22 comment_likes=0 | robbery shootout -> run -> carjack (prologue mission)
+ 40.0 | Asmongold TV oyHFwPNd_c4 33:28-34:58 | hype=10 action=4 npc_lines=5 comment_likes=0 | shootout escape onto seaplane, "the game is broke" (prologue mission)
+ 19.0 | Jynxzi k3esjgmbphQ 14:10-15:31 | hype=8 action=2 npc_lines=27 comment_likes=25 | screen-narrator menu rant (MENU - fails user rule)
+  0.0 | Asmongold TV oyHFwPNd_c4 174:50-176:12 | hype=5 action=0 npc_lines=1 comment_likes=0 | "redneck anime" talk (TALKING - fails user rule)

@@ -1,0 +1,7 @@
+PASS  resolution 1080x1920  [1080x1920]
+PASS  fps about 30  [30.00]
+PASS  has audio
+PASS  duration 60-90s (default)  [89.8s]
+PASS  no banned terms in caption/hook
+PASS  campaign rules file  [none given, defaults used (NOT a rules check)]
+RESULT: PASS
